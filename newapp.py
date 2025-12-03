@@ -1318,3 +1318,5 @@ if st.session_state.logged_in:
    
 else:
     login_signup_page()
+
+st.write("RealtyAI-A Smart Real estate Platform"|Powered By HarshiniDivvela|©️2025")
