@@ -3,18 +3,18 @@
 <h4>Realty AI is an end-to-end AI-powered real estate analytics platform that automates property evaluation, price prediction, and market trend forecasting. It integrates satellite image segmentation, house price modeling, and time-series forecasting into a unified system designed for buyers, sellers, investors, and developers.</h4>
 <h3>
   🧩 Problem Statement</h3>
-  <h2>
+  <h4>
 The real estate industry struggles with:
 Inefficient and subjective property evaluation
 Manual, time-consuming analysis
 Inaccurate price predictions
 Difficulty forecasting long-term market trends
-  </h2>
+  </h4>
 <h3>Realty AI aims to solve these challenges by delivering actionable insights using an automated and data-driven AI platform.
 </h3>
 <h3>
   🚀 Project Overview</h3>
-<h2>Objectives
+<h4>Objectives
 1.Build a scalable platform that:
 -Performs satellite image segmentation using U-Net
 -Classifies buildings from segmented images
@@ -28,10 +28,10 @@ Difficulty forecasting long-term market trends
 -Automated multi-model evaluation
 -Interactive user interface for analysis
 -Scalable and secure architecture
-</h2>
+</h4>
 <h3>🛠️ Methodology
 End-to-End Workflow:</h3>
-<h2>
+<h4>
 User Authentication (Signup/Login/Logout)
 Data Preprocessing (images + tabular data)
 Satellite Image Segmentation with U-Net
@@ -39,9 +39,9 @@ Building Classification using CNN
 House Price Prediction (XGBoost Regression)
 Market Trend Forecasting (LSTM)
 PDF Report Generation
-Visualization Dashboards (Streamlit)</h2>
+Visualization Dashboards (Streamlit)</h4>
 <h3>Model Arhcitectures </h3>
-<h2>
+<h4>
 🔹U-Net
 High-precision building footprint extraction
 Captures spatial context with skip connections
@@ -53,16 +53,16 @@ Categorizes building structures from segmented outputs
 Predicts property prices using optimized tree boosting
 
 🔹 LSTM
-Learns historical patterns to forecast future real estate trends </h2>
+Learns historical patterns to forecast future real estate trends </h4>
 <h3>Techstack</h3>
-<h2>
+<h4>
 Python, NumPy, Pandas
 TensorFlow, Keras, PyTorch (optional)
 XGBoost
 Streamlit
 SQLite
 Matplotlib / Seaborn / Plotly
-OpenCV</h2>
+OpenCV</h4>
 
 # Clone the repository #
 git clone https://github.com/DivvelaHemaHarshini/RealtyAI.git
